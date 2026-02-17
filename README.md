@@ -1,2 +1,2 @@
-# paythonbasico
+# pythonbasico
 servicio de paython basico
